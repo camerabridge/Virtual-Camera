@@ -1,8 +1,4 @@
 # Virtual-Camera
-virtualcamera.mobile@gmail.com
-
-virtualcamera.android@yahoo.com
-
 # VirtualCam （VirtualCam Plugin) 100% Working
 
 A VirtualCam module based on the  framework suitable for Android 9.0 and above, written in Kotlin.
