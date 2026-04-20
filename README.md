@@ -1,6 +1,6 @@
 # Virtual-Camera
 
-![Logo](https://i.postimg.cc/xTqV5C45/virtual-cam.png)
+![Logo](https://drive.google.com/file/d/1MNhtQp95k6cIT3HA-teM2TfjSsIL_qXo/view?usp=sharing)
 
 
 # VirtualCam （VirtualCam Plugin) 100% Working
